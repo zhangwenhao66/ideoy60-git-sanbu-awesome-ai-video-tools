@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "name": "AI Video & Creative Tools Directory",
   "repository": "https://github.com/git-sanbu/awesome-ai-video-tools",
   "last_reviewed": "2026-10-19",
@@ -12,8 +12,26 @@
       "url": "https://zombiecouplevideo.si/",
       "category": "photo-effects",
       "description": {
-        "en": "Couple-photo studio for zombie couple video effects. Preview available; public video generation and checkout are not open.",
-        "zh-CN": "面向情侣合照与双人肖像的丧尸情侣短片工作台；目前可体验预览，视频生成及公开支付尚未开放。"
+        "en": "A playful, focused studio for zombie couple stories using a couple photo or two portraits.",
+        "zh-CN": "专注丧尸情侣故事的趣味工作台，支持一张合照或两张单人肖像。",
+        "zh-TW": "專注喪屍情侶故事的趣味工作台，支援一張合照或兩張個人肖像。",
+        "ja": "二人の写真1枚または2枚のポートレートで、ゾンビ風カップルストーリーを楽しむためのスタジオ。",
+        "ko": "커플 사진 한 장 또는 인물 사진 두 장으로 좀비 커플 이야기를 구상하는 재미있는 스튜디오.",
+        "es": "Un estudio divertido para historias de parejas zombis, con una foto de pareja o dos retratos.",
+        "pt-BR": "Um estúdio divertido para histórias de casais zumbis, com uma foto do casal ou dois retratos.",
+        "fr": "Un studio ludique pour des histoires de couples zombies, avec une photo de couple ou deux portraits.",
+        "de": "Ein spielerisches Studio für Zombie-Paargeschichten mit einem Paarfoto oder zwei Porträts.",
+        "it": "Uno studio divertente per storie di coppie zombie, con una foto di coppia o due ritratti.",
+        "ru": "Творческая студия историй о зомби-парах с одной совместной фотографией или двумя портретами.",
+        "ar": "استوديو مرح لقصص الأزواج بطابع الزومبي، باستخدام صورة مشتركة أو صورتين شخصيتين.",
+        "hi": "एक कपल फ़ोटो या दो पोर्ट्रेट के साथ ज़ॉम्बी कपल कहानियों का मज़ेदार स्टूडियो।",
+        "id": "Studio seru untuk kisah pasangan zombi dengan satu foto bersama atau dua potret.",
+        "tr": "Bir çift fotoğrafı veya iki portreyle zombi çift hikâyeleri için eğlenceli bir stüdyo.",
+        "vi": "Studio thú vị cho chuyện tình zombie từ một ảnh đôi hoặc hai ảnh chân dung.",
+        "th": "สตูดิโอสนุกสำหรับเรื่องราวคู่รักซอมบี้ โดยใช้รูปคู่หนึ่งรูปหรือภาพบุคคลสองรูป",
+        "pl": "Pomysłowe studio historii par zombie, oparte na jednym wspólnym zdjęciu lub dwóch portretach.",
+        "nl": "Een speelse studio voor zombieliefdesverhalen met één koppelfoto of twee portretten.",
+        "bn": "একটি যুগল ছবি বা দুটি পোর্ট্রেট দিয়ে জম্বি যুগলের গল্প ভাবার মজার স্টুডিও।"
       },
       "sources": [
         "https://zombiecouplevideo.si/about"
@@ -49,8 +67,26 @@
       "url": "https://runway.com/",
       "category": "video-generation",
       "description": {
-        "en": "Creative AI platform with video generation tools and model research.",
-        "zh-CN": "提供视频生成工具及模型研究的创意 AI 平台。"
+        "en": "Creative AI platform with video tools and model research.",
+        "zh-CN": "提供视频工具与模型研究的创意 AI 平台。",
+        "zh-TW": "提供影片工具與模型研究的創意 AI 平台。",
+        "ja": "動画ツールとモデル研究を提供するクリエイティブ AI プラットフォーム。",
+        "ko": "영상 도구와 모델 연구를 제공하는 창작 AI 플랫폼.",
+        "es": "Plataforma de IA creativa con herramientas de vídeo e investigación de modelos.",
+        "pt-BR": "Plataforma de IA criativa com ferramentas de vídeo e pesquisa de modelos.",
+        "fr": "Plateforme d’IA créative avec outils vidéo et recherche sur les modèles.",
+        "de": "Kreative KI-Plattform mit Videowerkzeugen und Modellforschung.",
+        "it": "Piattaforma di IA creativa con strumenti video e ricerca sui modelli.",
+        "ru": "Творческая ИИ-платформа с видеоинструментами и исследованиями моделей.",
+        "ar": "منصة إبداعية للذكاء الاصطناعي تضم أدوات فيديو وأبحاث نماذج.",
+        "hi": "वीडियो टूल और मॉडल रिसर्च वाला क्रिएटिव एआई प्लेटफ़ॉर्म।",
+        "id": "Platform AI kreatif dengan alat video dan riset model.",
+        "tr": "Video araçları ve model araştırmaları sunan yaratıcı yapay zekâ platformu.",
+        "vi": "Nền tảng AI sáng tạo với công cụ video và nghiên cứu mô hình.",
+        "th": "แพลตฟอร์ม AI สร้างสรรค์พร้อมเครื่องมือวิดีโอและงานวิจัยโมเดล",
+        "pl": "Platforma kreatywnej AI z narzędziami wideo i badaniami modeli.",
+        "nl": "Creatief AI-platform met videotools en modelonderzoek.",
+        "bn": "ভিডিও টুল ও মডেল গবেষণার সৃজনশীল এআই প্ল্যাটফর্ম।"
       },
       "sources": [
         "https://runway.com/"
@@ -69,8 +105,26 @@
       "url": "https://pika.art/",
       "category": "video-generation",
       "description": {
-        "en": "AI video creation and visual effects platform.",
-        "zh-CN": "AI 视频创作及视觉特效平台。"
+        "en": "AI video creation and visual effects.",
+        "zh-CN": "AI 视频创作与视觉特效。",
+        "zh-TW": "AI 影片創作與視覺特效。",
+        "ja": "AI 動画制作と視覚効果。",
+        "ko": "AI 영상 제작과 시각 효과.",
+        "es": "Creación de vídeos con IA y efectos visuales.",
+        "pt-BR": "Criação de vídeos com IA e efeitos visuais.",
+        "fr": "Création vidéo par IA et effets visuels.",
+        "de": "KI-Videoproduktion und visuelle Effekte.",
+        "it": "Creazione di video con IA ed effetti visivi.",
+        "ru": "Создание видео с ИИ и визуальные эффекты.",
+        "ar": "إنشاء فيديو بالذكاء الاصطناعي ومؤثرات بصرية.",
+        "hi": "एआई वीडियो निर्माण और विज़ुअल इफ़ेक्ट।",
+        "id": "Pembuatan video AI dan efek visual.",
+        "tr": "Yapay zekâ ile video üretimi ve görsel efektler.",
+        "vi": "Tạo video AI và hiệu ứng hình ảnh.",
+        "th": "การสร้างวิดีโอ AI และเอฟเฟกต์ภาพ",
+        "pl": "Tworzenie wideo AI i efektów wizualnych.",
+        "nl": "AI-videocreatie en visuele effecten.",
+        "bn": "এআই ভিডিও তৈরি ও ভিজ্যুয়াল ইফেক্ট।"
       },
       "sources": [
         "https://pika.art/"
@@ -89,8 +143,26 @@
       "url": "https://lumalabs.ai/",
       "category": "video-generation",
       "description": {
-        "en": "Creative AI platform for visual and video workflows.",
-        "zh-CN": "面向视觉与视频工作流的创意 AI 平台。"
+        "en": "Creative AI for visual and video workflows.",
+        "zh-CN": "面向视觉与视频工作流的创意 AI。",
+        "zh-TW": "面向視覺與影片工作流程的創意 AI。",
+        "ja": "映像や動画の制作工程に使うクリエイティブ AI。",
+        "ko": "시각 콘텐츠와 영상 작업을 위한 창작 AI.",
+        "es": "IA creativa para proyectos visuales y de vídeo.",
+        "pt-BR": "IA criativa para projetos visuais e de vídeo.",
+        "fr": "IA créative pour les projets visuels et vidéo.",
+        "de": "Kreative KI für Bild- und Videoabläufe.",
+        "it": "IA creativa per progetti visivi e video.",
+        "ru": "Творческий ИИ для визуальных и видеопроектов.",
+        "ar": "ذكاء اصطناعي إبداعي للمشروعات المرئية والفيديو.",
+        "hi": "दृश्य और वीडियो प्रोजेक्ट के लिए क्रिएटिव एआई।",
+        "id": "AI kreatif untuk proyek visual dan video.",
+        "tr": "Görsel ve video projeleri için yaratıcı yapay zekâ.",
+        "vi": "AI sáng tạo cho quy trình hình ảnh và video.",
+        "th": "AI สร้างสรรค์สำหรับงานภาพและวิดีโอ",
+        "pl": "Kreatywna AI do projektów wizualnych i wideo.",
+        "nl": "Creatieve AI voor beeld- en videoprojecten.",
+        "bn": "দৃশ্য ও ভিডিও প্রকল্পের জন্য সৃজনশীল এআই।"
       },
       "sources": [
         "https://lumalabs.ai/"
@@ -109,8 +181,26 @@
       "url": "https://klingai.com/",
       "category": "video-generation",
       "description": {
-        "en": "AI creative platform for video and image generation.",
-        "zh-CN": "提供视频与图像生成的 AI 创意平台。"
+        "en": "AI video and image generation.",
+        "zh-CN": "AI 视频与图像生成。",
+        "zh-TW": "AI 影片與影像生成。",
+        "ja": "AI 動画・画像生成。",
+        "ko": "AI 영상·이미지 생성.",
+        "es": "Generación de vídeos e imágenes con IA.",
+        "pt-BR": "Geração de vídeos e imagens com IA.",
+        "fr": "Génération de vidéos et d’images par IA.",
+        "de": "KI-Generierung von Videos und Bildern.",
+        "it": "Generazione di video e immagini con IA.",
+        "ru": "Генерация видео и изображений с ИИ.",
+        "ar": "إنشاء الفيديو والصور بالذكاء الاصطناعي.",
+        "hi": "एआई से वीडियो और तस्वीरें बनाना।",
+        "id": "Pembuatan video dan gambar dengan AI.",
+        "tr": "Yapay zekâ ile video ve görsel üretimi.",
+        "vi": "Tạo video và hình ảnh bằng AI.",
+        "th": "การสร้างวิดีโอและภาพด้วย AI",
+        "pl": "Generowanie filmów i obrazów za pomocą AI.",
+        "nl": "Video’s en beelden genereren met AI.",
+        "bn": "এআই দিয়ে ভিডিও ও ছবি তৈরি।"
       },
       "sources": [
         "https://klingai.com/"
@@ -129,8 +219,26 @@
       "url": "https://deepmind.google/models/veo/",
       "category": "video-generation",
       "description": {
-        "en": "Google DeepMind video-generation model information and examples. This is a model reference page, not a claim of unrestricted access.",
-        "zh-CN": "Google DeepMind 视频生成模型介绍与示例；此条目为模型资料页，不代表所有用户均可直接使用。"
+        "en": "Google DeepMind video-generation model information and examples.",
+        "zh-CN": "Google DeepMind 视频生成模型介绍与示例。",
+        "zh-TW": "Google DeepMind 影片生成模型介紹與範例。",
+        "ja": "Google DeepMind の動画生成モデル情報と作例。",
+        "ko": "Google DeepMind 영상 생성 모델의 정보와 예시.",
+        "es": "Información y ejemplos del modelo de vídeo de Google DeepMind.",
+        "pt-BR": "Informações e exemplos do modelo de vídeo do Google DeepMind.",
+        "fr": "Informations et exemples du modèle vidéo de Google DeepMind.",
+        "de": "Informationen und Beispiele zum Videomodell von Google DeepMind.",
+        "it": "Informazioni ed esempi del modello video di Google DeepMind.",
+        "ru": "Описание и примеры видеомодели Google DeepMind.",
+        "ar": "معلومات وأمثلة لنموذج الفيديو من Google DeepMind.",
+        "hi": "Google DeepMind के वीडियो मॉडल की जानकारी और उदाहरण।",
+        "id": "Informasi dan contoh model video Google DeepMind.",
+        "tr": "Google DeepMind video modelinin bilgileri ve örnekleri.",
+        "vi": "Thông tin và ví dụ về mô hình video Google DeepMind.",
+        "th": "ข้อมูลและตัวอย่างโมเดลวิดีโอของ Google DeepMind",
+        "pl": "Informacje i przykłady modelu wideo Google DeepMind.",
+        "nl": "Informatie en voorbeelden van het videomodel van Google DeepMind.",
+        "bn": "Google DeepMind-এর ভিডিও মডেলের তথ্য ও উদাহরণ।"
       },
       "sources": [
         "https://deepmind.google/models/veo/"
@@ -149,8 +257,26 @@
       "url": "https://www.heygen.com/",
       "category": "avatar-video",
       "description": {
-        "en": "AI avatar video creation platform.",
-        "zh-CN": "AI 数字人视频创作平台。"
+        "en": "AI avatar video creation.",
+        "zh-CN": "AI 数字人视频创作。",
+        "zh-TW": "AI 虛擬人像影片創作。",
+        "ja": "AI アバター動画制作。",
+        "ko": "AI 아바타 영상 제작.",
+        "es": "Creación de vídeos con avatares de IA.",
+        "pt-BR": "Criação de vídeos com avatares de IA.",
+        "fr": "Création de vidéos avec des avatars IA.",
+        "de": "Videoproduktion mit KI-Avataren.",
+        "it": "Creazione di video con avatar IA.",
+        "ru": "Создание видео с ИИ-аватарами.",
+        "ar": "إنشاء فيديو بشخصيات افتراضية ذكية.",
+        "hi": "एआई अवतार के साथ वीडियो निर्माण।",
+        "id": "Pembuatan video dengan avatar AI.",
+        "tr": "Yapay zekâ avatarlarıyla video üretimi.",
+        "vi": "Tạo video với nhân vật đại diện AI.",
+        "th": "การสร้างวิดีโอด้วยอวตาร AI",
+        "pl": "Tworzenie wideo z awatarami AI.",
+        "nl": "Video’s maken met AI-avatars.",
+        "bn": "এআই অ্যাভাটার দিয়ে ভিডিও তৈরি।"
       },
       "sources": [
         "https://www.heygen.com/"
@@ -169,8 +295,26 @@
       "url": "https://www.synthesia.io/",
       "category": "avatar-video",
       "description": {
-        "en": "Business video platform using AI avatars.",
-        "zh-CN": "使用 AI 数字人制作企业视频的平台。"
+        "en": "Business video creation with AI avatars.",
+        "zh-CN": "使用 AI 数字人制作企业视频。",
+        "zh-TW": "使用 AI 虛擬人像製作企業影片。",
+        "ja": "AI アバターによる企業向け動画制作。",
+        "ko": "AI 아바타를 활용한 기업 영상 제작.",
+        "es": "Vídeos empresariales con avatares de IA.",
+        "pt-BR": "Vídeos empresariais com avatares de IA.",
+        "fr": "Vidéos d’entreprise avec des avatars IA.",
+        "de": "Unternehmensvideos mit KI-Avataren.",
+        "it": "Video aziendali con avatar IA.",
+        "ru": "Корпоративные видео с ИИ-аватарами.",
+        "ar": "فيديو للأعمال باستخدام شخصيات افتراضية ذكية.",
+        "hi": "एआई अवतार के साथ बिज़नेस वीडियो बनाना।",
+        "id": "Pembuatan video bisnis dengan avatar AI.",
+        "tr": "Yapay zekâ avatarlarıyla iş videoları.",
+        "vi": "Tạo video doanh nghiệp bằng nhân vật đại diện AI.",
+        "th": "การสร้างวิดีโอธุรกิจด้วยอวตาร AI",
+        "pl": "Wideo dla firm z awatarami AI.",
+        "nl": "Bedrijfsvideo’s maken met AI-avatars.",
+        "bn": "এআই অ্যাভাটার দিয়ে ব্যবসায়িক ভিডিও তৈরি।"
       },
       "sources": [
         "https://www.synthesia.io/"
@@ -189,8 +333,26 @@
       "url": "https://www.adobe.com/products/firefly.html",
       "category": "image-design",
       "description": {
-        "en": "Adobe generative AI tools for creative image, design and video workflows.",
-        "zh-CN": "Adobe 面向图像、设计与视频创作的生成式 AI 工具。"
+        "en": "Adobe generative AI for image, design and video workflows.",
+        "zh-CN": "Adobe 面向图像、设计与视频工作流的生成式 AI。",
+        "zh-TW": "Adobe 面向影像、設計與影片工作流程的生成式 AI。",
+        "ja": "画像、デザイン、動画制作に使う Adobe の生成 AI。",
+        "ko": "이미지·디자인·영상 작업을 위한 Adobe 생성형 AI.",
+        "es": "IA generativa de Adobe para imagen, diseño y vídeo.",
+        "pt-BR": "IA generativa da Adobe para imagem, design e vídeo.",
+        "fr": "IA générative d’Adobe pour l’image, le graphisme et la vidéo.",
+        "de": "Generative KI von Adobe für Bild, Design und Video.",
+        "it": "IA generativa Adobe per immagini, design e video.",
+        "ru": "Генеративный ИИ Adobe для изображений, дизайна и видео.",
+        "ar": "ذكاء Adobe الاصطناعي التوليدي للصور والتصميم والفيديو.",
+        "hi": "तस्वीर, डिज़ाइन और वीडियो के लिए Adobe का जनरेटिव एआई।",
+        "id": "AI generatif Adobe untuk gambar, desain, dan video.",
+        "tr": "Görsel, tasarım ve video için Adobe üretken yapay zekâsı.",
+        "vi": "AI tạo sinh của Adobe cho hình ảnh, thiết kế và video.",
+        "th": "AI สร้างสรรค์ของ Adobe สำหรับภาพ งานออกแบบ และวิดีโอ",
+        "pl": "Generatywna AI Adobe do obrazów, projektowania i wideo.",
+        "nl": "Generatieve AI van Adobe voor beeld, ontwerp en video.",
+        "bn": "ছবি, ডিজাইন ও ভিডিওর জন্য Adobe-এর জেনারেটিভ এআই।"
       },
       "sources": [
         "https://www.adobe.com/products/firefly.html"
@@ -209,8 +371,26 @@
       "url": "https://www.midjourney.com/",
       "category": "image-design",
       "description": {
-        "en": "AI image creation platform. Automated source retrieval was challenged; current features and availability were not checked.",
-        "zh-CN": "AI 图像创作平台。本次自动访问遇到验证，未核实最新功能与可用性。"
+        "en": "AI image creation.",
+        "zh-CN": "AI 图像创作。",
+        "zh-TW": "AI 影像創作。",
+        "ja": "AI 画像制作。",
+        "ko": "AI 이미지 제작.",
+        "es": "Creación de imágenes con IA.",
+        "pt-BR": "Criação de imagens com IA.",
+        "fr": "Création d’images par IA.",
+        "de": "KI-Bilderstellung.",
+        "it": "Creazione di immagini con IA.",
+        "ru": "Создание изображений с ИИ.",
+        "ar": "إنشاء الصور بالذكاء الاصطناعي.",
+        "hi": "एआई से तस्वीरें बनाना।",
+        "id": "Pembuatan gambar dengan AI.",
+        "tr": "Yapay zekâ ile görsel üretimi.",
+        "vi": "Sáng tạo hình ảnh bằng AI.",
+        "th": "การสร้างภาพด้วย AI",
+        "pl": "Tworzenie obrazów za pomocą AI.",
+        "nl": "Beelden maken met AI.",
+        "bn": "এআই দিয়ে ছবি তৈরি।"
       },
       "sources": [
         "https://www.midjourney.com/"
@@ -229,8 +409,26 @@
       "url": "https://chatgpt.com/",
       "category": "assistants-search",
       "description": {
-        "en": "OpenAI conversational AI assistant. Automated source retrieval was blocked; current plans and features were not checked.",
-        "zh-CN": "OpenAI 对话式 AI 助手。本次自动访问受限，未核实最新套餐与功能。"
+        "en": "OpenAI conversational AI assistant.",
+        "zh-CN": "OpenAI 对话式 AI 助手。",
+        "zh-TW": "OpenAI 對話式 AI 助手。",
+        "ja": "OpenAI の対話型 AI アシスタント。",
+        "ko": "OpenAI의 대화형 AI 도우미.",
+        "es": "Asistente conversacional de IA de OpenAI.",
+        "pt-BR": "Assistente de IA conversacional da OpenAI.",
+        "fr": "Assistant IA conversationnel d’OpenAI.",
+        "de": "Dialogorientierter KI-Assistent von OpenAI.",
+        "it": "Assistente IA conversazionale di OpenAI.",
+        "ru": "Диалоговый ИИ-ассистент OpenAI.",
+        "ar": "مساعد محادثة ذكي من OpenAI.",
+        "hi": "OpenAI का संवाद आधारित एआई सहायक।",
+        "id": "Asisten AI percakapan dari OpenAI.",
+        "tr": "OpenAI sohbet tabanlı yapay zekâ asistanı.",
+        "vi": "Trợ lý AI hội thoại của OpenAI.",
+        "th": "ผู้ช่วย AI แบบสนทนาของ OpenAI",
+        "pl": "Konwersacyjny asystent AI OpenAI.",
+        "nl": "Gespreksgerichte AI-assistent van OpenAI.",
+        "bn": "OpenAI-এর কথোপকথনভিত্তিক এআই সহকারী।"
       },
       "sources": [
         "https://openai.com/chatgpt/overview/"
@@ -250,7 +448,25 @@
       "category": "assistants-search",
       "description": {
         "en": "Anthropic AI assistant for writing, analysis and problem solving.",
-        "zh-CN": "Anthropic 提供的写作、分析与问题求解 AI 助手。"
+        "zh-CN": "Anthropic 提供的写作、分析与问题求解 AI 助手。",
+        "zh-TW": "Anthropic 提供的寫作、分析與問題解決 AI 助手。",
+        "ja": "文章作成、分析、問題解決に使う Anthropic の AI アシスタント。",
+        "ko": "글쓰기·분석·문제 해결을 위한 Anthropic AI 도우미.",
+        "es": "Asistente de IA de Anthropic para escritura, análisis y resolución de problemas.",
+        "pt-BR": "Assistente de IA da Anthropic para escrita, análise e resolução de problemas.",
+        "fr": "Assistant IA d’Anthropic pour la rédaction, l’analyse et la résolution de problèmes.",
+        "de": "KI-Assistent von Anthropic für Schreiben, Analyse und Problemlösung.",
+        "it": "Assistente IA di Anthropic per scrittura, analisi e risoluzione di problemi.",
+        "ru": "ИИ-ассистент Anthropic для текстов, анализа и решения задач.",
+        "ar": "مساعد Anthropic للكتابة والتحليل وحل المشكلات.",
+        "hi": "लेखन, विश्लेषण और समस्याओं के समाधान के लिए Anthropic का एआई सहायक।",
+        "id": "Asisten AI Anthropic untuk menulis, analisis, dan pemecahan masalah.",
+        "tr": "Yazı, analiz ve problem çözme için Anthropic yapay zekâ asistanı.",
+        "vi": "Trợ lý AI Anthropic cho viết, phân tích và giải quyết vấn đề.",
+        "th": "ผู้ช่วย AI ของ Anthropic สำหรับงานเขียน การวิเคราะห์ และการแก้ปัญหา",
+        "pl": "Asystent AI Anthropic do pisania, analizy i rozwiązywania problemów.",
+        "nl": "AI-assistent van Anthropic voor schrijven, analyse en probleemoplossing.",
+        "bn": "লেখা, বিশ্লেষণ ও সমস্যা সমাধানের জন্য Anthropic-এর এআই সহকারী।"
       },
       "sources": [
         "https://claude.com/product/overview"
@@ -269,8 +485,26 @@
       "url": "https://www.perplexity.ai/",
       "category": "assistants-search",
       "description": {
-        "en": "AI answer and web research platform.",
-        "zh-CN": "AI 问答与网络资料研究平台。"
+        "en": "AI answers and web research.",
+        "zh-CN": "AI 问答与网络资料研究。",
+        "zh-TW": "AI 問答與網路資料研究。",
+        "ja": "AI による回答とウェブ調査。",
+        "ko": "AI 답변과 웹 자료 조사.",
+        "es": "Respuestas con IA e investigación en la web.",
+        "pt-BR": "Respostas com IA e pesquisa na web.",
+        "fr": "Réponses par IA et recherche sur le Web.",
+        "de": "KI-Antworten und Webrecherche.",
+        "it": "Risposte con IA e ricerca sul web.",
+        "ru": "Ответы с ИИ и поиск информации в интернете.",
+        "ar": "إجابات بالذكاء الاصطناعي وبحث عبر الويب.",
+        "hi": "एआई जवाब और वेब रिसर्च।",
+        "id": "Jawaban AI dan riset web.",
+        "tr": "Yapay zekâ yanıtları ve web araştırması.",
+        "vi": "Câu trả lời AI và nghiên cứu trên web.",
+        "th": "คำตอบจาก AI และการค้นคว้าบนเว็บ",
+        "pl": "Odpowiedzi AI i wyszukiwanie w internecie.",
+        "nl": "AI-antwoorden en webonderzoek.",
+        "bn": "এআই উত্তর ও ওয়েব গবেষণা।"
       },
       "sources": [
         "https://www.perplexity.ai/"
@@ -283,5 +517,27 @@
       },
       "relationship": "independent_external_listing"
     }
+  ],
+  "languages": [
+    "en",
+    "zh-CN",
+    "zh-TW",
+    "ja",
+    "ko",
+    "es",
+    "pt-BR",
+    "fr",
+    "de",
+    "it",
+    "ru",
+    "ar",
+    "hi",
+    "id",
+    "tr",
+    "vi",
+    "th",
+    "pl",
+    "nl",
+    "bn"
   ]
 }

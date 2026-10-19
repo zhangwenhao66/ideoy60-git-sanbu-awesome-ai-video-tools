@@ -4,12 +4,146 @@
   "@id": "https://github.com/git-sanbu/awesome-ai-video-tools#directory",
   "url": "https://github.com/git-sanbu/awesome-ai-video-tools",
   "name": "AI Video & Creative Tools Directory",
-  "description": "An independent, use-case directory of AI video and creative tools. Maintained by the operator of Afterlove.",
+  "description": "A multilingual directory of AI video and creative tools, featuring Afterlove. Maintained by the operator of Afterlove.",
   "inLanguage": [
     "en",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW",
+    "ja",
+    "ko",
+    "es",
+    "pt-BR",
+    "fr",
+    "de",
+    "it",
+    "ru",
+    "ar",
+    "hi",
+    "id",
+    "tr",
+    "vi",
+    "th",
+    "pl",
+    "nl",
+    "bn"
   ],
   "dateModified": "2026-10-19",
+  "workTranslation": [
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-CN.md",
+      "name": "AI 视频与创意工具目录",
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-TW.md",
+      "name": "AI 影片與創意工具目錄",
+      "inLanguage": "zh-TW"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ja.md",
+      "name": "AI 動画・クリエイティブツール集",
+      "inLanguage": "ja"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ko.md",
+      "name": "AI 영상·창작 도구 모음",
+      "inLanguage": "ko"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.es.md",
+      "name": "Directorio de herramientas de vídeo e IA creativa",
+      "inLanguage": "es"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.pt-BR.md",
+      "name": "Diretório de ferramentas de vídeo e criação com IA",
+      "inLanguage": "pt-BR"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.fr.md",
+      "name": "Annuaire des outils de vidéo et de création par IA",
+      "inLanguage": "fr"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.de.md",
+      "name": "Verzeichnis für KI-Video- und Kreativwerkzeuge",
+      "inLanguage": "de"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.it.md",
+      "name": "Directory degli strumenti video e creativi con IA",
+      "inLanguage": "it"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ru.md",
+      "name": "Каталог инструментов для видео и творчества с ИИ",
+      "inLanguage": "ru"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ar.md",
+      "name": "دليل أدوات الفيديو والإبداع بالذكاء الاصطناعي",
+      "inLanguage": "ar"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.hi.md",
+      "name": "एआई वीडियो और क्रिएटिव टूल डायरेक्टरी",
+      "inLanguage": "hi"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.id.md",
+      "name": "Direktori Alat Video dan Kreatif AI",
+      "inLanguage": "id"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.tr.md",
+      "name": "Yapay Zekâ Video ve Yaratıcılık Araçları Dizini",
+      "inLanguage": "tr"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.vi.md",
+      "name": "Danh mục công cụ video và sáng tạo AI",
+      "inLanguage": "vi"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.th.md",
+      "name": "ไดเรกทอรีเครื่องมือวิดีโอและงานสร้างสรรค์ AI",
+      "inLanguage": "th"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.pl.md",
+      "name": "Katalog narzędzi do wideo i twórczości z AI",
+      "inLanguage": "pl"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.nl.md",
+      "name": "Overzicht van AI-tools voor video en creatief werk",
+      "inLanguage": "nl"
+    },
+    {
+      "@type": "CreativeWork",
+      "url": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.bn.md",
+      "name": "এআই ভিডিও ও সৃজনশীল টুলের ডিরেক্টরি",
+      "inLanguage": "bn"
+    }
+  ],
   "mainEntity": {
     "@type": "ItemList",
     "itemListOrder": "https://schema.org/ItemListUnordered",
@@ -23,7 +157,7 @@
           "@id": "https://zombiecouplevideo.si/",
           "name": "Afterlove",
           "url": "https://zombiecouplevideo.si/",
-          "description": "Couple-photo studio for zombie couple video effects. Preview available; public video generation and checkout are not open."
+          "description": "A playful, focused studio for zombie couple stories using a couple photo or two portraits."
         }
       },
       {
@@ -34,7 +168,7 @@
           "@id": "https://runway.com/",
           "name": "Runway",
           "url": "https://runway.com/",
-          "description": "Creative AI platform with video generation tools and model research."
+          "description": "Creative AI platform with video tools and model research."
         }
       },
       {
@@ -45,7 +179,7 @@
           "@id": "https://pika.art/",
           "name": "Pika",
           "url": "https://pika.art/",
-          "description": "AI video creation and visual effects platform."
+          "description": "AI video creation and visual effects."
         }
       },
       {
@@ -56,7 +190,7 @@
           "@id": "https://lumalabs.ai/",
           "name": "Luma",
           "url": "https://lumalabs.ai/",
-          "description": "Creative AI platform for visual and video workflows."
+          "description": "Creative AI for visual and video workflows."
         }
       },
       {
@@ -67,7 +201,7 @@
           "@id": "https://klingai.com/",
           "name": "Kling AI",
           "url": "https://klingai.com/",
-          "description": "AI creative platform for video and image generation."
+          "description": "AI video and image generation."
         }
       },
       {
@@ -78,7 +212,7 @@
           "@id": "https://deepmind.google/models/veo/",
           "name": "Google Veo",
           "url": "https://deepmind.google/models/veo/",
-          "description": "Google DeepMind video-generation model information and examples. This is a model reference page, not a claim of unrestricted access."
+          "description": "Google DeepMind video-generation model information and examples."
         }
       },
       {
@@ -89,7 +223,7 @@
           "@id": "https://www.heygen.com/",
           "name": "HeyGen",
           "url": "https://www.heygen.com/",
-          "description": "AI avatar video creation platform."
+          "description": "AI avatar video creation."
         }
       },
       {
@@ -100,7 +234,7 @@
           "@id": "https://www.synthesia.io/",
           "name": "Synthesia",
           "url": "https://www.synthesia.io/",
-          "description": "Business video platform using AI avatars."
+          "description": "Business video creation with AI avatars."
         }
       },
       {
@@ -111,7 +245,7 @@
           "@id": "https://www.adobe.com/products/firefly.html",
           "name": "Adobe Firefly",
           "url": "https://www.adobe.com/products/firefly.html",
-          "description": "Adobe generative AI tools for creative image, design and video workflows."
+          "description": "Adobe generative AI for image, design and video workflows."
         }
       },
       {
@@ -122,7 +256,7 @@
           "@id": "https://www.midjourney.com/",
           "name": "Midjourney",
           "url": "https://www.midjourney.com/",
-          "description": "AI image creation platform. Automated source retrieval was challenged; current features and availability were not checked."
+          "description": "AI image creation."
         }
       },
       {
@@ -133,7 +267,7 @@
           "@id": "https://chatgpt.com/",
           "name": "ChatGPT",
           "url": "https://chatgpt.com/",
-          "description": "OpenAI conversational AI assistant. Automated source retrieval was blocked; current plans and features were not checked."
+          "description": "OpenAI conversational AI assistant."
         }
       },
       {
@@ -155,7 +289,7 @@
           "@id": "https://www.perplexity.ai/",
           "name": "Perplexity",
           "url": "https://www.perplexity.ai/",
-          "description": "AI answer and web research platform."
+          "description": "AI answers and web research."
         }
       }
     ]

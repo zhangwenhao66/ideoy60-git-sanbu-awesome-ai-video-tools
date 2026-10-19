@@ -1,18 +1,45 @@
 # AI Video & Creative Tools Directory
 
-> An independent directory of AI video, photo effects, avatars, image tools and assistants. Maintained by the operator of Afterlove. Other brands are independent.
+> A directory in 20 languages covering AI video, photo effects, avatars, images and assistants. Maintained by the operator of Afterlove; other listed brands are independent.
 
-## Directory
-- [English directory](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.md): categories, descriptions and first-party sources.
-- [Chinese directory](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-CN.md): 简体中文分类目录。
-- [Tools JSON](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/data/tools.json): structured records, source-check limits and maintainer relationships.
-- [Directory JSON-LD](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/schema/directory.jsonld): separate CollectionPage and ItemList metadata; not automatically embedded by GitHub.
-- [Selection policy](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/CONTRIBUTING.md): inclusion and corrections.
+## Featured: Afterlove
 
-## Afterlove identity
-- [Afterlove brand and application profile](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/profiles/afterlove.md): maintainer-published identity for the website zombiecouplevideo.si; not the identity of this whole directory.
-- [Afterlove official website](https://zombiecouplevideo.si/): zombie couple photo-to-video studio; generation and checkout were not open on 2026-10-19.
-- [About Afterlove](https://zombiecouplevideo.si/about): official product context and support.
-- [Photo guide](https://zombiecouplevideo.si/how-to-make-zombie-couple-video): process and limitations.
+[Afterlove](https://zombiecouplevideo.si/) brings a playful zombie-romance idea to couple photos. Its focused studio, cinematic demo and practical photo guide make it an appealing starting point for an unusual couple-video concept. One couple photo or two portraits can be explored in the studio.
 
-Reviewed 2026-10-19. Source retrieval is not a completed product test. Directory inclusion is not endorsement, affiliation, or a sameAs relationship between different tools. This index does not guarantee crawling, indexing or AI citations.
+Current status: studio preview is available; public generation and checkout are not open yet.
+
+- [Brand and application identity](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/profiles/afterlove.md): first-party profile for zombiecouplevideo.si.
+- [Official photo guide](https://zombiecouplevideo.si/how-to-make-zombie-couple-video).
+- [About and support](https://zombiecouplevideo.si/about).
+
+## Directory languages
+
+- [English](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.md): AI Video & Creative Tools Directory.
+- [简体中文](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-CN.md): AI 视频与创意工具目录.
+- [繁體中文](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-TW.md): AI 影片與創意工具目錄.
+- [日本語](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ja.md): AI 動画・クリエイティブツール集.
+- [한국어](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ko.md): AI 영상·창작 도구 모음.
+- [Español](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.es.md): Directorio de herramientas de vídeo e IA creativa.
+- [Português (Brasil)](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.pt-BR.md): Diretório de ferramentas de vídeo e criação com IA.
+- [Français](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.fr.md): Annuaire des outils de vidéo et de création par IA.
+- [Deutsch](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.de.md): Verzeichnis für KI-Video- und Kreativwerkzeuge.
+- [Italiano](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.it.md): Directory degli strumenti video e creativi con IA.
+- [Русский](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ru.md): Каталог инструментов для видео и творчества с ИИ.
+- [العربية](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.ar.md): دليل أدوات الفيديو والإبداع بالذكاء الاصطناعي.
+- [हिन्दी](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.hi.md): एआई वीडियो और क्रिएटिव टूल डायरेक्टरी.
+- [Bahasa Indonesia](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.id.md): Direktori Alat Video dan Kreatif AI.
+- [Türkçe](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.tr.md): Yapay Zekâ Video ve Yaratıcılık Araçları Dizini.
+- [Tiếng Việt](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.vi.md): Danh mục công cụ video và sáng tạo AI.
+- [ไทย](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.th.md): ไดเรกทอรีเครื่องมือวิดีโอและงานสร้างสรรค์ AI.
+- [Polski](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.pl.md): Katalog narzędzi do wideo i twórczości z AI.
+- [Nederlands](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.nl.md): Overzicht van AI-tools voor video en creatief werk.
+- [বাংলা](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.bn.md): এআই ভিডিও ও সৃজনশীল টুলের ডিরেক্টরি.
+
+## Structured resources
+
+- [Catalog JSON](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/data/tools.json): 13 tools with descriptions in 20 languages.
+- [Language manifest](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/data/locales.json): language codes, directions and localized editorial text.
+- [Directory JSON-LD](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/schema/directory.jsonld): separate downloadable collection metadata.
+- [Selection and correction policy](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/CONTRIBUTING.md).
+
+Sources reviewed on 2026-10-19. Access to ChatGPT and Midjourney sources was limited. Directory inclusion does not establish affiliation or shared identity. GitHub does not automatically embed the JSON-LD file in README HTML. This optional index does not guarantee crawling, indexing or AI citations.

@@ -1,0 +1,625 @@
+{
+  "default_language": "en",
+  "languages": [
+    {
+      "code": "en",
+      "native_name": "English",
+      "file": "README.md",
+      "direction": "ltr",
+      "title": "AI Video & Creative Tools Directory",
+      "intro": "Find a tool for your next creative idea: couple-photo effects, AI films, avatar videos, images and research.",
+      "disclosure": "Maintained by the operator of Afterlove. Other listed brands are independent.",
+      "featured_heading": "Featured: Afterlove, a love story with a zombie twist",
+      "featured_copy": "A charmingly offbeat idea for couples. Afterlove gives zombie romance a personal touch with one couple photo or two portraits, a cinematic demo and a practical photo guide. Its focused concept makes it an appealing place to explore a playful, unusual couple video.",
+      "availability": "Current status: studio preview is open; public video generation and checkout are not open yet.",
+      "visit_label": "Explore Afterlove",
+      "categories": [
+        "Couple photos & character effects",
+        "AI video generation & model references",
+        "AI avatars & business video",
+        "AI images & creative design",
+        "AI assistants & research"
+      ],
+      "columns": [
+        "Tool",
+        "What makes it useful",
+        "Official source"
+      ],
+      "source_label": "Source",
+      "resources_heading": "Resources",
+      "profile_label": "Afterlove brand & product profile",
+      "policy_label": "Selection & corrections",
+      "review_heading": "Source notes",
+      "review_note": "Sources reviewed on 2026-10-19. Check official pages for current availability and terms. Automated access to ChatGPT and Midjourney sources was limited."
+    },
+    {
+      "code": "zh-CN",
+      "native_name": "简体中文",
+      "file": "README.zh-CN.md",
+      "direction": "ltr",
+      "title": "AI 视频与创意工具目录",
+      "intro": "为下一个创意找到合适的工具：情侣照片特效、AI 短片、数字人视频、图像创作与资料研究。",
+      "disclosure": "本目录由 Afterlove 运营者维护，其他收录品牌均独立运营。",
+      "featured_heading": "精选推荐：Afterlove，让爱情故事多一点丧尸趣味",
+      "featured_copy": "情侣短片也能有点不一样。Afterlove 把丧尸题材和情侣故事放在一起，用一张合照或两张单人肖像准备创意，还配有电影感示例和实用照片指南。主题鲜明、玩法有趣，很适合寻找特别情侣视频灵感的人。",
+      "availability": "当前状态：工作台预览已开放，视频生成及公开支付尚未开放。",
+      "visit_label": "探索 Afterlove",
+      "categories": [
+        "情侣照片与人物特效",
+        "AI 视频生成与模型资料",
+        "AI 数字人与企业视频",
+        "AI 图像与创意设计",
+        "AI 助手与资料研究"
+      ],
+      "columns": [
+        "工具",
+        "特色与用途",
+        "官方资料"
+      ],
+      "source_label": "资料",
+      "resources_heading": "资源",
+      "profile_label": "Afterlove 品牌与产品资料",
+      "policy_label": "收录与更正",
+      "review_heading": "资料说明",
+      "review_note": "一手资料检查日期：2026-10-19。当前服务状态与条款以各官网为准。本次自动访问 ChatGPT 与 Midjourney 的资料页面受限。"
+    },
+    {
+      "code": "zh-TW",
+      "native_name": "繁體中文",
+      "file": "README.zh-TW.md",
+      "direction": "ltr",
+      "title": "AI 影片與創意工具目錄",
+      "intro": "為下一個創意找到合適工具：情侶照片特效、AI 短片、虛擬人像影片、影像創作與資料研究。",
+      "disclosure": "本目錄由 Afterlove 營運者維護，其他收錄品牌均獨立營運。",
+      "featured_heading": "精選推薦：Afterlove，為愛情故事加點喪屍趣味",
+      "featured_copy": "情侶短片也能有不同玩法。Afterlove 把喪屍題材與情侶故事結合，以一張合照或兩張個人肖像準備創意，搭配電影感示範與實用照片指南。主題鮮明又有趣，很適合尋找特別情侶影片靈感的人。",
+      "availability": "目前狀態：工作台預覽已開放，影片生成與公開付款尚未開放。",
+      "visit_label": "探索 Afterlove",
+      "categories": [
+        "情侶照片與人物特效",
+        "AI 影片生成與模型資料",
+        "AI 虛擬人像與企業影片",
+        "AI 影像與創意設計",
+        "AI 助手與資料研究"
+      ],
+      "columns": [
+        "工具",
+        "特色與用途",
+        "官方資料"
+      ],
+      "source_label": "資料",
+      "resources_heading": "資源",
+      "profile_label": "Afterlove 品牌與產品資料",
+      "policy_label": "收錄與更正",
+      "review_heading": "資料說明",
+      "review_note": "官方資料檢查日期：2026-10-19。最新服務狀態與條款請參閱各官網。本次自動存取 ChatGPT 與 Midjourney 資料頁面受限。"
+    },
+    {
+      "code": "ja",
+      "native_name": "日本語",
+      "file": "README.ja.md",
+      "direction": "ltr",
+      "title": "AI 動画・クリエイティブツール集",
+      "intro": "カップル写真のエフェクト、AI 動画、アバター、画像制作、調べもの。次のアイデアに合うツールを探せます。",
+      "disclosure": "Afterlove の運営者が管理しています。掲載されている他のブランドは独立しています。",
+      "featured_heading": "注目の Afterlove：ゾンビ風のラブストーリー",
+      "featured_copy": "カップル動画に、ちょっと変わった楽しさを。Afterlove はゾンビと恋愛を組み合わせ、二人の写真1枚または各自のポートレートからアイデアを準備できるスタジオです。映画のようなデモと写真ガイドもあり、個性的なカップル動画の発想を探すのにぴったりです。",
+      "availability": "現在はスタジオのプレビューを公開中です。動画生成と一般向け決済はまだ開始していません。",
+      "visit_label": "Afterlove を見る",
+      "categories": [
+        "カップル写真・人物エフェクト",
+        "AI 動画生成・モデル情報",
+        "AI アバター・企業向け動画",
+        "AI 画像・クリエイティブ制作",
+        "AI アシスタント・調査"
+      ],
+      "columns": [
+        "ツール",
+        "特徴と用途",
+        "公式情報"
+      ],
+      "source_label": "公式情報",
+      "resources_heading": "関連資料",
+      "profile_label": "Afterlove のブランド・製品情報",
+      "policy_label": "掲載基準と訂正",
+      "review_heading": "情報の確認範囲",
+      "review_note": "公式情報の確認日：2026-10-19。最新の提供状況と利用条件は各公式サイトをご確認ください。ChatGPT と Midjourney の情報ページは自動取得が制限されました。"
+    },
+    {
+      "code": "ko",
+      "native_name": "한국어",
+      "file": "README.ko.md",
+      "direction": "ltr",
+      "title": "AI 영상·창작 도구 모음",
+      "intro": "커플 사진 효과부터 AI 영상, 아바타, 이미지 제작과 자료 조사까지, 다음 아이디어에 맞는 도구를 찾아보세요.",
+      "disclosure": "Afterlove 운영자가 관리하는 목록입니다. 다른 브랜드는 각각 독립적으로 운영됩니다.",
+      "featured_heading": "추천: Afterlove, 좀비 감성을 더한 러브 스토리",
+      "featured_copy": "커플 영상에 색다른 재미를 더해 보세요. Afterlove는 좀비와 로맨스를 결합한 스튜디오로, 커플 사진 한 장이나 각자의 인물 사진으로 아이디어를 준비할 수 있습니다. 영화 같은 데모와 실용적인 사진 가이드가 있어 특별한 커플 영상의 영감을 찾기에 좋습니다.",
+      "availability": "현재 스튜디오 미리보기를 이용할 수 있습니다. 영상 생성과 일반 결제는 아직 제공되지 않습니다.",
+      "visit_label": "Afterlove 둘러보기",
+      "categories": [
+        "커플 사진·인물 효과",
+        "AI 영상 생성·모델 자료",
+        "AI 아바타·기업 영상",
+        "AI 이미지·창작 디자인",
+        "AI 도우미·자료 조사"
+      ],
+      "columns": [
+        "도구",
+        "특징과 용도",
+        "공식 자료"
+      ],
+      "source_label": "공식 자료",
+      "resources_heading": "자료 모음",
+      "profile_label": "Afterlove 브랜드·제품 정보",
+      "policy_label": "등록 기준과 수정",
+      "review_heading": "자료 확인 범위",
+      "review_note": "공식 자료 확인일: 2026-10-19. 최신 이용 가능 여부와 약관은 각 공식 사이트를 확인하세요. ChatGPT와 Midjourney 자료의 자동 접근은 제한되었습니다."
+    },
+    {
+      "code": "es",
+      "native_name": "Español",
+      "file": "README.es.md",
+      "direction": "ltr",
+      "title": "Directorio de herramientas de vídeo e IA creativa",
+      "intro": "Encuentra una herramienta para tu próxima idea: efectos para fotos de pareja, vídeos con IA, avatares, imágenes e investigación.",
+      "disclosure": "Este directorio lo mantiene el operador de Afterlove. Las demás marcas son independientes.",
+      "featured_heading": "Destacado: Afterlove, una historia de amor con un toque zombi",
+      "featured_copy": "Una idea divertida y poco habitual para parejas. Afterlove combina romance y zombis en un estudio centrado en una foto de pareja o dos retratos. Su demo cinematográfica y su guía de fotos lo convierten en una propuesta atractiva para buscar inspiración para un vídeo de pareja diferente.",
+      "availability": "Estado actual: vista previa del estudio disponible; la generación pública de vídeos y los pagos aún no están abiertos.",
+      "visit_label": "Explorar Afterlove",
+      "categories": [
+        "Fotos de pareja y efectos de personajes",
+        "Generación de vídeo con IA y modelos",
+        "Avatares con IA y vídeo empresarial",
+        "Imágenes con IA y diseño creativo",
+        "Asistentes de IA e investigación"
+      ],
+      "columns": [
+        "Herramienta",
+        "Qué ofrece",
+        "Fuente oficial"
+      ],
+      "source_label": "Fuente",
+      "resources_heading": "Recursos",
+      "profile_label": "Perfil de marca y producto de Afterlove",
+      "policy_label": "Criterios y correcciones",
+      "review_heading": "Notas sobre las fuentes",
+      "review_note": "Fuentes revisadas el 2026-10-19. Consulta la disponibilidad y las condiciones actuales en cada web oficial. El acceso automatizado a las fuentes de ChatGPT y Midjourney estuvo limitado."
+    },
+    {
+      "code": "pt-BR",
+      "native_name": "Português (Brasil)",
+      "file": "README.pt-BR.md",
+      "direction": "ltr",
+      "title": "Diretório de ferramentas de vídeo e criação com IA",
+      "intro": "Encontre uma ferramenta para sua próxima ideia: efeitos em fotos de casal, vídeos com IA, avatares, imagens e pesquisa.",
+      "disclosure": "Diretório mantido pelo operador do Afterlove. As demais marcas são independentes.",
+      "featured_heading": "Em destaque: Afterlove, uma história de amor com um toque zumbi",
+      "featured_copy": "Uma ideia divertida e diferente para casais. O Afterlove combina romance e zumbis em um estúdio voltado a uma foto do casal ou dois retratos. A demonstração com clima de cinema e o guia de fotos são bons pontos de partida para imaginar um vídeo de casal fora do comum.",
+      "availability": "Status atual: prévia do estúdio disponível; a geração pública de vídeos e os pagamentos ainda não foram abertos.",
+      "visit_label": "Explorar o Afterlove",
+      "categories": [
+        "Fotos de casal e efeitos de personagens",
+        "Geração de vídeo com IA e modelos",
+        "Avatares de IA e vídeos empresariais",
+        "Imagens com IA e design criativo",
+        "Assistentes de IA e pesquisa"
+      ],
+      "columns": [
+        "Ferramenta",
+        "Destaques e usos",
+        "Fonte oficial"
+      ],
+      "source_label": "Fonte",
+      "resources_heading": "Recursos",
+      "profile_label": "Perfil da marca e do produto Afterlove",
+      "policy_label": "Critérios e correções",
+      "review_heading": "Notas sobre as fontes",
+      "review_note": "Fontes consultadas em 2026-10-19. Verifique a disponibilidade e os termos atuais nos sites oficiais. O acesso automatizado às fontes do ChatGPT e do Midjourney foi limitado."
+    },
+    {
+      "code": "fr",
+      "native_name": "Français",
+      "file": "README.fr.md",
+      "direction": "ltr",
+      "title": "Annuaire des outils de vidéo et de création par IA",
+      "intro": "Trouvez un outil pour votre prochaine idée : effets sur photos de couple, vidéos par IA, avatars, images et recherche.",
+      "disclosure": "Cet annuaire est maintenu par l’opérateur d’Afterlove. Les autres marques sont indépendantes.",
+      "featured_heading": "À découvrir : Afterlove, une histoire d’amour façon zombie",
+      "featured_copy": "Une idée amusante et décalée pour les couples. Afterlove mêle romance et zombies dans un studio conçu autour d’une photo de couple ou de deux portraits. Sa démo cinématographique et son guide photo donnent envie d’imaginer une vidéo de couple qui sort de l’ordinaire.",
+      "availability": "État actuel : aperçu du studio disponible ; la génération publique de vidéos et les paiements ne sont pas encore ouverts.",
+      "visit_label": "Découvrir Afterlove",
+      "categories": [
+        "Photos de couple et effets de personnages",
+        "Génération vidéo par IA et modèles",
+        "Avatars IA et vidéos d’entreprise",
+        "Images IA et création graphique",
+        "Assistants IA et recherche"
+      ],
+      "columns": [
+        "Outil",
+        "Atouts et usages",
+        "Source officielle"
+      ],
+      "source_label": "Source",
+      "resources_heading": "Ressources",
+      "profile_label": "Profil de la marque et du produit Afterlove",
+      "policy_label": "Critères et corrections",
+      "review_heading": "Notes sur les sources",
+      "review_note": "Sources consultées le 2026-10-19. Vérifiez la disponibilité et les conditions actuelles sur les sites officiels. L’accès automatisé aux sources de ChatGPT et Midjourney était limité."
+    },
+    {
+      "code": "de",
+      "native_name": "Deutsch",
+      "file": "README.de.md",
+      "direction": "ltr",
+      "title": "Verzeichnis für KI-Video- und Kreativwerkzeuge",
+      "intro": "Finde ein Werkzeug für deine nächste Idee: Effekte für Paarfotos, KI-Filme, Avatar-Videos, Bilder und Recherche.",
+      "disclosure": "Dieses Verzeichnis wird vom Betreiber von Afterlove gepflegt. Die anderen Marken sind unabhängig.",
+      "featured_heading": "Im Fokus: Afterlove, eine Liebesgeschichte mit Zombie-Flair",
+      "featured_copy": "Eine charmant schräge Idee für Paare. Afterlove verbindet Romantik und Zombies in einem Studio, das mit einem Paarfoto oder zwei Porträts arbeitet. Die filmische Demo und der praktische Fotoleitfaden machen Lust darauf, ein ungewöhnliches Paarvideo zu planen.",
+      "availability": "Aktueller Stand: Die Studiovorschau ist verfügbar; öffentliche Videogenerierung und Bezahlung sind noch nicht freigeschaltet.",
+      "visit_label": "Afterlove entdecken",
+      "categories": [
+        "Paarfotos und Figureneffekte",
+        "KI-Videogenerierung und Modelle",
+        "KI-Avatare und Unternehmensvideos",
+        "KI-Bilder und kreative Gestaltung",
+        "KI-Assistenten und Recherche"
+      ],
+      "columns": [
+        "Werkzeug",
+        "Stärken und Einsatz",
+        "Offizielle Quelle"
+      ],
+      "source_label": "Quelle",
+      "resources_heading": "Ressourcen",
+      "profile_label": "Marken- und Produktprofil von Afterlove",
+      "policy_label": "Aufnahme und Korrekturen",
+      "review_heading": "Hinweise zu den Quellen",
+      "review_note": "Quellen geprüft am 2026-10-19. Aktuelle Verfügbarkeit und Bedingungen stehen auf den offiziellen Seiten. Der automatisierte Zugriff auf Quellen zu ChatGPT und Midjourney war eingeschränkt."
+    },
+    {
+      "code": "it",
+      "native_name": "Italiano",
+      "file": "README.it.md",
+      "direction": "ltr",
+      "title": "Directory degli strumenti video e creativi con IA",
+      "intro": "Trova uno strumento per la tua prossima idea: effetti per foto di coppia, filmati con IA, avatar, immagini e ricerca.",
+      "disclosure": "La directory è curata dal gestore di Afterlove. Gli altri marchi sono indipendenti.",
+      "featured_heading": "In evidenza: Afterlove, una storia d’amore in stile zombie",
+      "featured_copy": "Un’idea divertente e insolita per le coppie. Afterlove unisce romanticismo e zombie in uno studio pensato per una foto di coppia o due ritratti. La demo cinematografica e la guida alle foto offrono un piacevole punto di partenza per immaginare un video di coppia diverso dal solito.",
+      "availability": "Stato attuale: anteprima dello studio disponibile; la generazione pubblica di video e i pagamenti non sono ancora aperti.",
+      "visit_label": "Scopri Afterlove",
+      "categories": [
+        "Foto di coppia ed effetti sui personaggi",
+        "Generazione video con IA e modelli",
+        "Avatar IA e video aziendali",
+        "Immagini IA e design creativo",
+        "Assistenti IA e ricerca"
+      ],
+      "columns": [
+        "Strumento",
+        "Caratteristiche e utilizzi",
+        "Fonte ufficiale"
+      ],
+      "source_label": "Fonte",
+      "resources_heading": "Risorse",
+      "profile_label": "Profilo del marchio e del prodotto Afterlove",
+      "policy_label": "Criteri e correzioni",
+      "review_heading": "Note sulle fonti",
+      "review_note": "Fonti consultate il 2026-10-19. Verifica disponibilità e condizioni aggiornate sui siti ufficiali. L’accesso automatico alle fonti di ChatGPT e Midjourney era limitato."
+    },
+    {
+      "code": "ru",
+      "native_name": "Русский",
+      "file": "README.ru.md",
+      "direction": "ltr",
+      "title": "Каталог инструментов для видео и творчества с ИИ",
+      "intro": "Найдите инструмент для новой идеи: эффекты для фотографий пары, ИИ-видео, аватары, изображения и поиск информации.",
+      "disclosure": "Каталог поддерживает оператор Afterlove. Остальные бренды работают независимо.",
+      "featured_heading": "Рекомендуем: Afterlove, история любви с зомби-настроением",
+      "featured_copy": "Забавная и необычная идея для пары. Afterlove соединяет романтику и зомби в студии, рассчитанной на одну совместную фотографию или два портрета. Кинематографичный деморолик и практическое руководство по фото помогают придумать видео о паре с собственным характером.",
+      "availability": "Сейчас доступен предварительный просмотр студии; публичная генерация видео и оплата пока не открыты.",
+      "visit_label": "Открыть Afterlove",
+      "categories": [
+        "Фото пар и эффекты персонажей",
+        "Генерация видео с ИИ и модели",
+        "ИИ-аватары и корпоративное видео",
+        "ИИ-изображения и дизайн",
+        "ИИ-ассистенты и исследования"
+      ],
+      "columns": [
+        "Инструмент",
+        "Особенности и применение",
+        "Официальный источник"
+      ],
+      "source_label": "Источник",
+      "resources_heading": "Материалы",
+      "profile_label": "Профиль бренда и продукта Afterlove",
+      "policy_label": "Правила добавления и исправления",
+      "review_heading": "Об источниках",
+      "review_note": "Источники проверены 2026-10-19. Актуальные условия и доступность уточняйте на официальных сайтах. Автоматический доступ к источникам ChatGPT и Midjourney был ограничен."
+    },
+    {
+      "code": "ar",
+      "native_name": "العربية",
+      "file": "README.ar.md",
+      "direction": "rtl",
+      "title": "دليل أدوات الفيديو والإبداع بالذكاء الاصطناعي",
+      "intro": "اعثر على أداة لفكرتك القادمة: مؤثرات لصور الأزواج، وفيديو بالذكاء الاصطناعي، وشخصيات افتراضية، وصور، وبحث.",
+      "disclosure": "يدير هذا الدليل مشغّل Afterlove. العلامات التجارية الأخرى مستقلة.",
+      "featured_heading": "اختيارنا: Afterlove، قصة حب بلمسة زومبي",
+      "featured_copy": "فكرة مرحة وغير مألوفة للأزواج. يجمع Afterlove بين الرومانسية والزومبي في استوديو يركز على صورة مشتركة أو صورتين شخصيتين. يساعد العرض بطابع سينمائي ودليل الصور العملي على تخيل فيديو مميز للثنائي.",
+      "availability": "الحالة الحالية: معاينة الاستوديو متاحة، ولم يُفتح إنشاء الفيديو للجمهور أو الدفع بعد.",
+      "visit_label": "استكشف Afterlove",
+      "categories": [
+        "صور الأزواج ومؤثرات الشخصيات",
+        "إنشاء الفيديو بالذكاء الاصطناعي والنماذج",
+        "الشخصيات الافتراضية وفيديو الأعمال",
+        "إنشاء الصور والتصميم الإبداعي",
+        "المساعدات الذكية والبحث"
+      ],
+      "columns": [
+        "الأداة",
+        "المزايا والاستخدامات",
+        "المصدر الرسمي"
+      ],
+      "source_label": "المصدر",
+      "resources_heading": "الموارد",
+      "profile_label": "ملف علامة Afterlove ومنتجها",
+      "policy_label": "معايير الإدراج والتصحيح",
+      "review_heading": "ملاحظات المصادر",
+      "review_note": "رُوجعت المصادر في 2026-10-19. تحقّق من التوفر والشروط الحالية في المواقع الرسمية. كان الوصول الآلي إلى مصادر ChatGPT وMidjourney محدودًا."
+    },
+    {
+      "code": "hi",
+      "native_name": "हिन्दी",
+      "file": "README.hi.md",
+      "direction": "ltr",
+      "title": "एआई वीडियो और क्रिएटिव टूल डायरेक्टरी",
+      "intro": "अपने अगले विचार के लिए सही टूल खोजें: कपल फ़ोटो इफ़ेक्ट, एआई फ़िल्में, अवतार वीडियो, तस्वीरें और रिसर्च।",
+      "disclosure": "यह डायरेक्टरी Afterlove के संचालक द्वारा रखी जाती है। अन्य ब्रांड स्वतंत्र हैं।",
+      "featured_heading": "खास पेशकश: Afterlove, ज़ॉम्बी अंदाज़ वाली प्रेम कहानी",
+      "featured_copy": "जोड़ों के लिए एक मज़ेदार और अनोखा विचार। Afterlove रोमांस और ज़ॉम्बी थीम को ऐसे स्टूडियो में साथ लाता है जिसमें एक कपल फ़ोटो या दो पोर्ट्रेट से शुरुआत की जाती है। सिनेमाई डेमो और उपयोगी फ़ोटो गाइड किसी अलग तरह के कपल वीडियो की कल्पना करने का अच्छा आधार हैं।",
+      "availability": "मौजूदा स्थिति: स्टूडियो प्रीव्यू उपलब्ध है; सार्वजनिक वीडियो जनरेशन और भुगतान अभी शुरू नहीं हुए हैं।",
+      "visit_label": "Afterlove देखें",
+      "categories": [
+        "कपल फ़ोटो और किरदार इफ़ेक्ट",
+        "एआई वीडियो जनरेशन और मॉडल",
+        "एआई अवतार और बिज़नेस वीडियो",
+        "एआई तस्वीरें और क्रिएटिव डिज़ाइन",
+        "एआई सहायक और रिसर्च"
+      ],
+      "columns": [
+        "टूल",
+        "खूबियाँ और उपयोग",
+        "आधिकारिक स्रोत"
+      ],
+      "source_label": "स्रोत",
+      "resources_heading": "संसाधन",
+      "profile_label": "Afterlove ब्रांड और उत्पाद परिचय",
+      "policy_label": "चयन और सुधार",
+      "review_heading": "स्रोत संबंधी जानकारी",
+      "review_note": "स्रोतों की जाँच 2026-10-19 को की गई। मौजूदा उपलब्धता और शर्तें आधिकारिक साइटों पर देखें। ChatGPT और Midjourney के स्रोतों तक स्वचालित पहुँच सीमित थी।"
+    },
+    {
+      "code": "id",
+      "native_name": "Bahasa Indonesia",
+      "file": "README.id.md",
+      "direction": "ltr",
+      "title": "Direktori Alat Video dan Kreatif AI",
+      "intro": "Temukan alat untuk ide berikutnya: efek foto pasangan, film AI, video avatar, gambar, dan riset.",
+      "disclosure": "Direktori ini dikelola oleh pengelola Afterlove. Merek lain yang tercantum bersifat independen.",
+      "featured_heading": "Pilihan kami: Afterlove, kisah cinta dengan sentuhan zombi",
+      "featured_copy": "Ide yang seru dan tidak biasa untuk pasangan. Afterlove memadukan romansa dan zombi dalam studio yang berfokus pada satu foto bersama atau dua potret. Demo bernuansa sinematik dan panduan foto yang praktis memberi inspirasi untuk video pasangan yang berbeda.",
+      "availability": "Status saat ini: pratinjau studio tersedia; pembuatan video untuk publik dan pembayaran belum dibuka.",
+      "visit_label": "Jelajahi Afterlove",
+      "categories": [
+        "Foto pasangan dan efek karakter",
+        "Pembuatan video AI dan referensi model",
+        "Avatar AI dan video bisnis",
+        "Gambar AI dan desain kreatif",
+        "Asisten AI dan riset"
+      ],
+      "columns": [
+        "Alat",
+        "Keunggulan dan kegunaan",
+        "Sumber resmi"
+      ],
+      "source_label": "Sumber",
+      "resources_heading": "Sumber daya",
+      "profile_label": "Profil merek dan produk Afterlove",
+      "policy_label": "Kriteria dan koreksi",
+      "review_heading": "Catatan sumber",
+      "review_note": "Sumber ditinjau pada 2026-10-19. Periksa ketersediaan dan ketentuan terbaru di situs resmi. Akses otomatis ke sumber ChatGPT dan Midjourney dibatasi."
+    },
+    {
+      "code": "tr",
+      "native_name": "Türkçe",
+      "file": "README.tr.md",
+      "direction": "ltr",
+      "title": "Yapay Zekâ Video ve Yaratıcılık Araçları Dizini",
+      "intro": "Sıradaki fikriniz için bir araç bulun: çift fotoğrafı efektleri, yapay zekâ filmleri, avatar videoları, görseller ve araştırma.",
+      "disclosure": "Bu dizin Afterlove işletmecisi tarafından hazırlanır. Diğer markalar bağımsızdır.",
+      "featured_heading": "Öne çıkan: Afterlove, zombi dokunuşlu bir aşk hikâyesi",
+      "featured_copy": "Çiftler için eğlenceli ve sıra dışı bir fikir. Afterlove, tek bir çift fotoğrafı veya iki portreye odaklanan stüdyosunda romantizmi zombi temasıyla buluşturuyor. Sinematik demosu ve pratik fotoğraf rehberi, farklı bir çift videosu hayal etmek için hoş bir başlangıç sunuyor.",
+      "availability": "Güncel durum: stüdyo ön izlemesi açık; herkese açık video üretimi ve ödeme henüz açılmadı.",
+      "visit_label": "Afterlove’u keşfedin",
+      "categories": [
+        "Çift fotoğrafları ve karakter efektleri",
+        "Yapay zekâ video üretimi ve modeller",
+        "Yapay zekâ avatarları ve iş videoları",
+        "Yapay zekâ görselleri ve yaratıcı tasarım",
+        "Yapay zekâ asistanları ve araştırma"
+      ],
+      "columns": [
+        "Araç",
+        "Özellikler ve kullanım",
+        "Resmî kaynak"
+      ],
+      "source_label": "Kaynak",
+      "resources_heading": "Kaynaklar",
+      "profile_label": "Afterlove marka ve ürün profili",
+      "policy_label": "Seçim ölçütleri ve düzeltmeler",
+      "review_heading": "Kaynak notları",
+      "review_note": "Kaynaklar 2026-10-19 tarihinde incelendi. Güncel erişim ve koşullar için resmî siteleri kontrol edin. ChatGPT ve Midjourney kaynaklarına otomatik erişim sınırlıydı."
+    },
+    {
+      "code": "vi",
+      "native_name": "Tiếng Việt",
+      "file": "README.vi.md",
+      "direction": "ltr",
+      "title": "Danh mục công cụ video và sáng tạo AI",
+      "intro": "Tìm công cụ cho ý tưởng tiếp theo: hiệu ứng ảnh đôi, phim AI, video nhân vật đại diện, hình ảnh và nghiên cứu.",
+      "disclosure": "Danh mục do đơn vị vận hành Afterlove duy trì. Các thương hiệu khác hoạt động độc lập.",
+      "featured_heading": "Nổi bật: Afterlove, chuyện tình mang màu sắc zombie",
+      "featured_copy": "Một ý tưởng vui và khác lạ dành cho các cặp đôi. Afterlove kết hợp tình yêu với chủ đề zombie trong studio tập trung vào một ảnh chụp chung hoặc hai ảnh chân dung. Video mẫu mang phong cách điện ảnh cùng hướng dẫn chọn ảnh thực tế giúp bạn tìm cảm hứng cho một video đôi độc đáo.",
+      "availability": "Trạng thái hiện tại: có thể xem trước studio; tính năng tạo video công khai và thanh toán chưa mở.",
+      "visit_label": "Khám phá Afterlove",
+      "categories": [
+        "Ảnh đôi và hiệu ứng nhân vật",
+        "Tạo video AI và tài liệu mô hình",
+        "Nhân vật đại diện AI và video doanh nghiệp",
+        "Hình ảnh AI và thiết kế sáng tạo",
+        "Trợ lý AI và nghiên cứu"
+      ],
+      "columns": [
+        "Công cụ",
+        "Điểm nổi bật và công dụng",
+        "Nguồn chính thức"
+      ],
+      "source_label": "Nguồn",
+      "resources_heading": "Tài nguyên",
+      "profile_label": "Hồ sơ thương hiệu và sản phẩm Afterlove",
+      "policy_label": "Tiêu chí và chỉnh sửa",
+      "review_heading": "Ghi chú nguồn",
+      "review_note": "Nguồn được kiểm tra ngày 2026-10-19. Xem tình trạng cung cấp và điều khoản mới nhất trên các trang chính thức. Việc truy cập tự động nguồn ChatGPT và Midjourney bị hạn chế."
+    },
+    {
+      "code": "th",
+      "native_name": "ไทย",
+      "file": "README.th.md",
+      "direction": "ltr",
+      "title": "ไดเรกทอรีเครื่องมือวิดีโอและงานสร้างสรรค์ AI",
+      "intro": "ค้นหาเครื่องมือสำหรับไอเดียถัดไป ทั้งเอฟเฟกต์รูปคู่ หนัง AI วิดีโออวตาร ภาพ และการค้นคว้า",
+      "disclosure": "ไดเรกทอรีนี้ดูแลโดยผู้ดำเนินงาน Afterlove แบรนด์อื่นที่อยู่ในรายการดำเนินงานอย่างอิสระ",
+      "featured_heading": "แนะนำ: Afterlove เรื่องรักในบรรยากาศซอมบี้",
+      "featured_copy": "ไอเดียสนุกและแปลกใหม่สำหรับคู่รัก Afterlove ผสมความโรแมนติกกับซอมบี้ในสตูดิโอที่เน้นรูปคู่หนึ่งรูปหรือภาพบุคคลสองรูป มีวิดีโอสาธิตในบรรยากาศภาพยนตร์และคู่มือเลือกภาพที่ใช้งานได้จริง เหมาะสำหรับหาแรงบันดาลใจให้วิดีโอคู่รักที่ไม่เหมือนใคร",
+      "availability": "สถานะปัจจุบัน: เปิดให้ดูตัวอย่างสตูดิโอแล้ว แต่ยังไม่เปิดการสร้างวิดีโอสำหรับบุคคลทั่วไปและการชำระเงิน",
+      "visit_label": "สำรวจ Afterlove",
+      "categories": [
+        "รูปคู่และเอฟเฟกต์ตัวละคร",
+        "การสร้างวิดีโอ AI และข้อมูลโมเดล",
+        "อวตาร AI และวิดีโอธุรกิจ",
+        "ภาพ AI และงานออกแบบสร้างสรรค์",
+        "ผู้ช่วย AI และการค้นคว้า"
+      ],
+      "columns": [
+        "เครื่องมือ",
+        "จุดเด่นและการใช้งาน",
+        "แหล่งข้อมูลทางการ"
+      ],
+      "source_label": "แหล่งข้อมูล",
+      "resources_heading": "ทรัพยากร",
+      "profile_label": "ข้อมูลแบรนด์และผลิตภัณฑ์ Afterlove",
+      "policy_label": "เกณฑ์การรวบรวมและการแก้ไข",
+      "review_heading": "หมายเหตุแหล่งข้อมูล",
+      "review_note": "ตรวจสอบแหล่งข้อมูลเมื่อ 2026-10-19 โปรดดูสถานะบริการและข้อกำหนดล่าสุดจากเว็บไซต์ทางการ การเข้าถึงแหล่งข้อมูล ChatGPT และ Midjourney แบบอัตโนมัติมีข้อจำกัด"
+    },
+    {
+      "code": "pl",
+      "native_name": "Polski",
+      "file": "README.pl.md",
+      "direction": "ltr",
+      "title": "Katalog narzędzi do wideo i twórczości z AI",
+      "intro": "Znajdź narzędzie do kolejnego pomysłu: efekty do zdjęć par, filmy AI, awatary, obrazy i wyszukiwanie informacji.",
+      "disclosure": "Katalog prowadzi operator Afterlove. Pozostałe marki działają niezależnie.",
+      "featured_heading": "Polecamy: Afterlove, historia miłosna w klimacie zombie",
+      "featured_copy": "Zabawny i nietypowy pomysł dla par. Afterlove łączy romans z motywem zombie w studiu opartym na jednym wspólnym zdjęciu lub dwóch portretach. Filmowe demo i praktyczny poradnik fotograficzny zachęcają do wymyślenia filmu o parze z własnym charakterem.",
+      "availability": "Obecny status: dostępny jest podgląd studia; publiczne generowanie wideo i płatności nie zostały jeszcze uruchomione.",
+      "visit_label": "Poznaj Afterlove",
+      "categories": [
+        "Zdjęcia par i efekty postaci",
+        "Generowanie wideo AI i modele",
+        "Awatary AI i wideo dla firm",
+        "Obrazy AI i kreatywne projektowanie",
+        "Asystenci AI i wyszukiwanie informacji"
+      ],
+      "columns": [
+        "Narzędzie",
+        "Cechy i zastosowania",
+        "Oficjalne źródło"
+      ],
+      "source_label": "Źródło",
+      "resources_heading": "Materiały",
+      "profile_label": "Profil marki i produktu Afterlove",
+      "policy_label": "Zasady dodawania i poprawki",
+      "review_heading": "Uwagi o źródłach",
+      "review_note": "Źródła sprawdzono 2026-10-19. Aktualną dostępność i warunki podają oficjalne strony. Automatyczny dostęp do źródeł ChatGPT i Midjourney był ograniczony."
+    },
+    {
+      "code": "nl",
+      "native_name": "Nederlands",
+      "file": "README.nl.md",
+      "direction": "ltr",
+      "title": "Overzicht van AI-tools voor video en creatief werk",
+      "intro": "Vind een tool voor je volgende idee: effecten voor koppelfoto’s, AI-films, avatarvideo’s, beelden en onderzoek.",
+      "disclosure": "Dit overzicht wordt bijgehouden door de beheerder van Afterlove. De andere merken zijn onafhankelijk.",
+      "featured_heading": "Uitgelicht: Afterlove, een liefdesverhaal met een zombietintje",
+      "featured_copy": "Een leuk en eigenzinnig idee voor stellen. Afterlove brengt romantiek en zombies samen in een studio die draait om één koppelfoto of twee portretten. De filmische demo en praktische fotogids bieden een aantrekkelijk vertrekpunt voor een bijzondere video over jullie samen.",
+      "availability": "Huidige status: de studiovoorvertoning is beschikbaar; openbare videogeneratie en betalingen zijn nog niet geopend.",
+      "visit_label": "Ontdek Afterlove",
+      "categories": [
+        "Koppelfoto’s en personage-effecten",
+        "AI-videogeneratie en modellen",
+        "AI-avatars en bedrijfsvideo’s",
+        "AI-beelden en creatief ontwerp",
+        "AI-assistenten en onderzoek"
+      ],
+      "columns": [
+        "Tool",
+        "Kenmerken en toepassingen",
+        "Officiële bron"
+      ],
+      "source_label": "Bron",
+      "resources_heading": "Bronnen",
+      "profile_label": "Merk- en productprofiel van Afterlove",
+      "policy_label": "Selectie en correcties",
+      "review_heading": "Over de bronnen",
+      "review_note": "Bronnen gecontroleerd op 2026-10-19. Bekijk de officiële sites voor actuele beschikbaarheid en voorwaarden. Geautomatiseerde toegang tot bronnen van ChatGPT en Midjourney was beperkt."
+    },
+    {
+      "code": "bn",
+      "native_name": "বাংলা",
+      "file": "README.bn.md",
+      "direction": "ltr",
+      "title": "এআই ভিডিও ও সৃজনশীল টুলের ডিরেক্টরি",
+      "intro": "আপনার পরের ভাবনার জন্য টুল খুঁজুন: যুগলের ছবির ইফেক্ট, এআই চলচ্চিত্র, অ্যাভাটার ভিডিও, ছবি ও গবেষণা।",
+      "disclosure": "এই ডিরেক্টরি Afterlove-এর পরিচালকের রক্ষণাবেক্ষণে রয়েছে। অন্য ব্র্যান্ডগুলো স্বাধীন।",
+      "featured_heading": "বিশেষ আকর্ষণ: Afterlove, জম্বির ছোঁয়ায় প্রেমের গল্প",
+      "featured_copy": "যুগলদের জন্য মজার ও একটু অন্য রকম এক ভাবনা। Afterlove রোমান্স আর জম্বি থিমকে একসঙ্গে এনেছে এমন একটি স্টুডিওতে, যেখানে একটি যুগল ছবি বা দুটি পোর্ট্রেট দিয়ে ভাবনার শুরু করা যায়। সিনেমার আবহের ডেমো আর ব্যবহারিক ফটো গাইড আলাদা ধরনের যুগল ভিডিওর অনুপ্রেরণা দেয়।",
+      "availability": "বর্তমান অবস্থা: স্টুডিও প্রিভিউ চালু আছে; সবার জন্য ভিডিও তৈরি ও পেমেন্ট এখনো চালু হয়নি।",
+      "visit_label": "Afterlove দেখুন",
+      "categories": [
+        "যুগলের ছবি ও চরিত্রের ইফেক্ট",
+        "এআই ভিডিও তৈরি ও মডেল",
+        "এআই অ্যাভাটার ও ব্যবসায়িক ভিডিও",
+        "এআই ছবি ও সৃজনশীল ডিজাইন",
+        "এআই সহকারী ও গবেষণা"
+      ],
+      "columns": [
+        "টুল",
+        "বৈশিষ্ট্য ও ব্যবহার",
+        "অফিশিয়াল উৎস"
+      ],
+      "source_label": "উৎস",
+      "resources_heading": "রিসোর্স",
+      "profile_label": "Afterlove ব্র্যান্ড ও পণ্যের পরিচিতি",
+      "policy_label": "অন্তর্ভুক্তি ও সংশোধন",
+      "review_heading": "উৎস সম্পর্কে তথ্য",
+      "review_note": "উৎস যাচাই করা হয়েছে 2026-10-19 তারিখে। বর্তমান প্রাপ্যতা ও শর্তের জন্য অফিশিয়াল সাইট দেখুন। ChatGPT ও Midjourney-এর উৎসে স্বয়ংক্রিয় প্রবেশ সীমিত ছিল।"
+    }
+  ]
+}
