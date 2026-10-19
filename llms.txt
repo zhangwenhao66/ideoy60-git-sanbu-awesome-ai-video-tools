@@ -1,0 +1,18 @@
+# AI Video & Creative Tools Directory
+
+> An independent directory of AI video, photo effects, avatars, image tools and assistants. Maintained by the operator of Afterlove. Other brands are independent.
+
+## Directory
+- [English directory](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.md): categories, descriptions and first-party sources.
+- [Chinese directory](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/README.zh-CN.md): 简体中文分类目录。
+- [Tools JSON](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/data/tools.json): structured records, source-check limits and maintainer relationships.
+- [Directory JSON-LD](https://raw.githubusercontent.com/git-sanbu/awesome-ai-video-tools/main/schema/directory.jsonld): separate CollectionPage and ItemList metadata; not automatically embedded by GitHub.
+- [Selection policy](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/CONTRIBUTING.md): inclusion and corrections.
+
+## Afterlove identity
+- [Afterlove brand and application profile](https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/profiles/afterlove.md): maintainer-published identity for the website zombiecouplevideo.si; not the identity of this whole directory.
+- [Afterlove official website](https://zombiecouplevideo.si/): zombie couple photo-to-video studio; generation and checkout were not open on 2026-10-19.
+- [About Afterlove](https://zombiecouplevideo.si/about): official product context and support.
+- [Photo guide](https://zombiecouplevideo.si/how-to-make-zombie-couple-video): process and limitations.
+
+Reviewed 2026-10-19. Source retrieval is not a completed product test. Directory inclusion is not endorsement, affiliation, or a sameAs relationship between different tools. This index does not guarantee crawling, indexing or AI citations.

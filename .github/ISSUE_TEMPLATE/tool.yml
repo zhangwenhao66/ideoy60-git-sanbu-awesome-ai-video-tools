@@ -1,0 +1,16 @@
+name: Tool suggestion or correction
+description: Suggest a relevant AI creative tool or correct a sourced fact.
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Official product URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Use case or correction
+      description: Include a first-party source, check date and any maintainer relationship. Never include private account details.
+    validations:
+      required: true

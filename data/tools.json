@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0.0",
+  "name": "AI Video & Creative Tools Directory",
+  "repository": "https://github.com/git-sanbu/awesome-ai-video-tools",
+  "last_reviewed": "2026-10-19",
+  "editorial_policy": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/CONTRIBUTING.md",
+  "disclosure": "The maintainer operates Afterlove. Other listed brands are independent; inclusion is not an endorsement or affiliation.",
+  "tools": [
+    {
+      "id": "afterlove",
+      "name": "Afterlove",
+      "url": "https://zombiecouplevideo.si/",
+      "category": "photo-effects",
+      "description": {
+        "en": "Couple-photo studio for zombie couple video effects. Preview available; public video generation and checkout are not open.",
+        "zh-CN": "面向情侣合照与双人肖像的丧尸情侣短片工作台；目前可体验预览，视频生成及公开支付尚未开放。"
+      },
+      "sources": [
+        "https://zombiecouplevideo.si/about"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "maintainer_operated",
+      "aliases": [
+        "Zombie Couple Video",
+        "Afterlove Zombie Couple Video"
+      ],
+      "profile": "https://github.com/git-sanbu/awesome-ai-video-tools/blob/main/profiles/afterlove.md",
+      "availability": {
+        "status": "preview_only",
+        "generation_enabled": false,
+        "checkout_open": false,
+        "checked_via": "https://zombiecouplevideo.si/api/video/config"
+      },
+      "public_pages": {
+        "about": "https://zombiecouplevideo.si/about",
+        "guide": "https://zombiecouplevideo.si/how-to-make-zombie-couple-video",
+        "privacy": "https://zombiecouplevideo.si/privacy-policy",
+        "llms": "https://zombiecouplevideo.si/llms.txt"
+      }
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "url": "https://runway.com/",
+      "category": "video-generation",
+      "description": {
+        "en": "Creative AI platform with video generation tools and model research.",
+        "zh-CN": "提供视频生成工具及模型研究的创意 AI 平台。"
+      },
+      "sources": [
+        "https://runway.com/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "url": "https://pika.art/",
+      "category": "video-generation",
+      "description": {
+        "en": "AI video creation and visual effects platform.",
+        "zh-CN": "AI 视频创作及视觉特效平台。"
+      },
+      "sources": [
+        "https://pika.art/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "luma",
+      "name": "Luma",
+      "url": "https://lumalabs.ai/",
+      "category": "video-generation",
+      "description": {
+        "en": "Creative AI platform for visual and video workflows.",
+        "zh-CN": "面向视觉与视频工作流的创意 AI 平台。"
+      },
+      "sources": [
+        "https://lumalabs.ai/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "kling",
+      "name": "Kling AI",
+      "url": "https://klingai.com/",
+      "category": "video-generation",
+      "description": {
+        "en": "AI creative platform for video and image generation.",
+        "zh-CN": "提供视频与图像生成的 AI 创意平台。"
+      },
+      "sources": [
+        "https://klingai.com/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "veo",
+      "name": "Google Veo",
+      "url": "https://deepmind.google/models/veo/",
+      "category": "video-generation",
+      "description": {
+        "en": "Google DeepMind video-generation model information and examples. This is a model reference page, not a claim of unrestricted access.",
+        "zh-CN": "Google DeepMind 视频生成模型介绍与示例；此条目为模型资料页，不代表所有用户均可直接使用。"
+      },
+      "sources": [
+        "https://deepmind.google/models/veo/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "url": "https://www.heygen.com/",
+      "category": "avatar-video",
+      "description": {
+        "en": "AI avatar video creation platform.",
+        "zh-CN": "AI 数字人视频创作平台。"
+      },
+      "sources": [
+        "https://www.heygen.com/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "url": "https://www.synthesia.io/",
+      "category": "avatar-video",
+      "description": {
+        "en": "Business video platform using AI avatars.",
+        "zh-CN": "使用 AI 数字人制作企业视频的平台。"
+      },
+      "sources": [
+        "https://www.synthesia.io/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "firefly",
+      "name": "Adobe Firefly",
+      "url": "https://www.adobe.com/products/firefly.html",
+      "category": "image-design",
+      "description": {
+        "en": "Adobe generative AI tools for creative image, design and video workflows.",
+        "zh-CN": "Adobe 面向图像、设计与视频创作的生成式 AI 工具。"
+      },
+      "sources": [
+        "https://www.adobe.com/products/firefly.html"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com/",
+      "category": "image-design",
+      "description": {
+        "en": "AI image creation platform. Automated source retrieval was challenged; current features and availability were not checked.",
+        "zh-CN": "AI 图像创作平台。本次自动访问遇到验证，未核实最新功能与可用性。"
+      },
+      "sources": [
+        "https://www.midjourney.com/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 403,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "access_limited"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "category": "assistants-search",
+      "description": {
+        "en": "OpenAI conversational AI assistant. Automated source retrieval was blocked; current plans and features were not checked.",
+        "zh-CN": "OpenAI 对话式 AI 助手。本次自动访问受限，未核实最新套餐与功能。"
+      },
+      "sources": [
+        "https://openai.com/chatgpt/overview/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 403,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "access_limited"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "category": "assistants-search",
+      "description": {
+        "en": "Anthropic AI assistant for writing, analysis and problem solving.",
+        "zh-CN": "Anthropic 提供的写作、分析与问题求解 AI 助手。"
+      },
+      "sources": [
+        "https://claude.com/product/overview"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "category": "assistants-search",
+      "description": {
+        "en": "AI answer and web research platform.",
+        "zh-CN": "AI 问答与网络资料研究平台。"
+      },
+      "sources": [
+        "https://www.perplexity.ai/"
+      ],
+      "last_reviewed": "2026-10-19",
+      "source_check": {
+        "status": 200,
+        "method": "HTTPS source retrieval; browser follow-up for Runway",
+        "result": "retrieved"
+      },
+      "relationship": "independent_external_listing"
+    }
+  ]
+}

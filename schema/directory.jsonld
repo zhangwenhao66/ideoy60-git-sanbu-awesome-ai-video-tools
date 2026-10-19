@@ -1,0 +1,163 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://github.com/git-sanbu/awesome-ai-video-tools#directory",
+  "url": "https://github.com/git-sanbu/awesome-ai-video-tools",
+  "name": "AI Video & Creative Tools Directory",
+  "description": "An independent, use-case directory of AI video and creative tools. Maintained by the operator of Afterlove.",
+  "inLanguage": [
+    "en",
+    "zh-CN"
+  ],
+  "dateModified": "2026-10-19",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListUnordered",
+    "numberOfItems": 13,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://zombiecouplevideo.si/",
+          "name": "Afterlove",
+          "url": "https://zombiecouplevideo.si/",
+          "description": "Couple-photo studio for zombie couple video effects. Preview available; public video generation and checkout are not open."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://runway.com/",
+          "name": "Runway",
+          "url": "https://runway.com/",
+          "description": "Creative AI platform with video generation tools and model research."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://pika.art/",
+          "name": "Pika",
+          "url": "https://pika.art/",
+          "description": "AI video creation and visual effects platform."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://lumalabs.ai/",
+          "name": "Luma",
+          "url": "https://lumalabs.ai/",
+          "description": "Creative AI platform for visual and video workflows."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://klingai.com/",
+          "name": "Kling AI",
+          "url": "https://klingai.com/",
+          "description": "AI creative platform for video and image generation."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://deepmind.google/models/veo/",
+          "name": "Google Veo",
+          "url": "https://deepmind.google/models/veo/",
+          "description": "Google DeepMind video-generation model information and examples. This is a model reference page, not a claim of unrestricted access."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.heygen.com/",
+          "name": "HeyGen",
+          "url": "https://www.heygen.com/",
+          "description": "AI avatar video creation platform."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.synthesia.io/",
+          "name": "Synthesia",
+          "url": "https://www.synthesia.io/",
+          "description": "Business video platform using AI avatars."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.adobe.com/products/firefly.html",
+          "name": "Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly.html",
+          "description": "Adobe generative AI tools for creative image, design and video workflows."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.midjourney.com/",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "description": "AI image creation platform. Automated source retrieval was challenged; current features and availability were not checked."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://chatgpt.com/",
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "OpenAI conversational AI assistant. Automated source retrieval was blocked; current plans and features were not checked."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 12,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://claude.ai/",
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "description": "Anthropic AI assistant for writing, analysis and problem solving."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 13,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.perplexity.ai/",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "AI answer and web research platform."
+        }
+      }
+    ]
+  }
+}
