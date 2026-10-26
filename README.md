@@ -32,6 +32,7 @@ Current status: studio preview is open; public video generation and checkout are
 
 ## AI video generation & model references
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 | Tool | What makes it useful | Official source |
 |---|---|---|
 | [Runway](https://runway.com/) | Creative AI platform with video tools and model research. | [Source](https://runway.com/) |
